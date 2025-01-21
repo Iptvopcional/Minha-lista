@@ -1,291 +1,231 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) 24/7 Dating Around Brazil
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 Dating Around Brazil", (ONLINE) 24/7 Dating Around Brazil
 http://supersonictv.live:8080/945213/876115/79630
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] A&E FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A&E", (OFFLINE) [BR] A&E FHD
 http://supersonictv.live:8080/945213/876115/84935
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Animal Planet FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Animal Planet", (ONLINE) [BR] Animal Planet FHD
 http://supersonictv.live:8080/945213/876115/84936
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Arte 1 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arte 1", (OFFLINE) [BR] Arte 1 FHD
 http://supersonictv.live:8080/945213/876115/84937
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] AXN FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AXN", (ONLINE) [BR] AXN FHD
 http://supersonictv.live:8080/945213/876115/84938
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Baby FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Baby", (OFFLINE) [BR] Baby FHD
 http://supersonictv.live:8080/945213/876115/84939
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Band", (ONLINE) [BR] Band FHD
 http://supersonictv.live:8080/945213/876115/84940
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band News FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Band", (ONLINE) [BR] Band News FHD
 http://supersonictv.live:8080/945213/876115/84941
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band Sports FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Band", (ONLINE) [BR] Band Sports FHD
 http://supersonictv.live:8080/945213/876115/84942
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] BIS FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BIS", (OFFLINE) [BR] BIS FHD
 http://supersonictv.live:8080/945213/876115/84943
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Boomerang FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Boomerang", (ONLINE) [BR] Boomerang FHD
 http://supersonictv.live:8080/945213/876115/84944
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Canal Brasil FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canal Brasil", (ONLINE) [BR] Canal Brasil FHD
 http://supersonictv.live:8080/945213/876115/84945
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Cartoon Network FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cartoon Network", (OFFLINE) [BR] Cartoon Network FHD
 http://supersonictv.live:8080/945213/876115/84946
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Chef TV FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Chef TV", (OFFLINE) [BR] Chef TV FHD
 http://supersonictv.live:8080/945213/876115/84947
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Cinemax FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cinemax", (ONLINE) [BR] Cinemax FHD
 http://supersonictv.live:8080/945213/876115/84948
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Cinemax HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cinemax", (ONLINE) [BR] Cinemax HD
 http://supersonictv.live:8080/945213/876115/84949
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] CNN Brasil FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CNN Brasil", (OFFLINE) [BR] CNN Brasil FHD
 http://supersonictv.live:8080/945213/876115/84950
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] CNN Espanhol HD
-http://supersonictv.live:8080/945213/876115/84951
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] CNN Internacional FHD
-http://supersonictv.live:8080/945213/876115/84952
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Combate FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Combate", (OFFLINE) [BR] Combate FHD
 http://supersonictv.live:8080/945213/876115/84953
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Comedy Central FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Comedy Central", (ONLINE) [BR] Comedy Central FHD
 http://supersonictv.live:8080/945213/876115/84954
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA CATARINENSE *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA CATARINENSE", (OFFLINE) [BR] COPA CATARINENSE *
 http://supersonictv.live:8080/945213/876115/84955
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA CATARINENSE 2 *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA CATARINENSE", (OFFLINE) [BR] COPA CATARINENSE 2 *
 http://supersonictv.live:8080/945213/876115/84956
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA CATARINENSE 2 HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA CATARINENSE", (OFFLINE) [BR] COPA CATARINENSE 2 HD *
 http://supersonictv.live:8080/945213/876115/84957
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA CATARINENSE HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA CATARINENSE", (OFFLINE) [BR] COPA CATARINENSE HD *
 http://supersonictv.live:8080/945213/876115/84958
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA DO NORDESTE *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA DO NORDESTE", (OFFLINE) [BR] COPA DO NORDESTE *
 http://supersonictv.live:8080/945213/876115/84959
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA DO NORDESTE 2 *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA DO NORDESTE", (OFFLINE) [BR] COPA DO NORDESTE 2 *
 http://supersonictv.live:8080/945213/876115/84960
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA DO NORDESTE 2 HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA DO NORDESTE", (OFFLINE) [BR] COPA DO NORDESTE 2 HD *
 http://supersonictv.live:8080/945213/876115/84961
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] COPA DO NORDESTE HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA DO NORDESTE", (OFFLINE) [BR] COPA DO NORDESTE HD *
 http://supersonictv.live:8080/945213/876115/84962
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Curta! FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Curta!", (OFFLINE) [BR] Curta! FHD
 http://supersonictv.live:8080/945213/876115/84963
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Channel FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Channel FHD
 http://supersonictv.live:8080/945213/876115/84966
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Home & Health FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Home & Health FHD
 http://supersonictv.live:8080/945213/876115/84967
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Discovery ID FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (ONLINE) [BR] Discovery ID FHD
 http://supersonictv.live:8080/945213/876115/84968
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Kids FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Kids FHD
 http://supersonictv.live:8080/945213/876115/84969
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Science FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Science FHD
 http://supersonictv.live:8080/945213/876115/84970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Theather FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Theather FHD
 http://supersonictv.live:8080/945213/876115/84971
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery Turbo FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery Turbo FHD
 http://supersonictv.live:8080/945213/876115/84972
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Discovery World FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery", (OFFLINE) [BR] Discovery World FHD
 http://supersonictv.live:8080/945213/876115/84973
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Disney Channel FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Disney", (OFFLINE) [BR] Disney Channel FHD
 http://supersonictv.live:8080/945213/876115/84974
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Disney JR FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Disney", (OFFLINE) [BR] Disney JR FHD
 http://supersonictv.live:8080/945213/876115/84975
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Disney XD FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Disney", (OFFLINE) [BR] Disney XD FHD
 http://supersonictv.live:8080/945213/876115/84976
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] E! FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="E!", (ONLINE) [BR] E! FHD
 http://supersonictv.live:8080/945213/876115/84977
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] ESPN 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN", (ONLINE) [BR] ESPN 2 FHD
 http://supersonictv.live:8080/945213/876115/84978
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] ESPN Brasil FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN", (ONLINE) [BR] ESPN Brasil FHD
 http://supersonictv.live:8080/945213/876115/84979
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] ESPN Extra FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN", (ONLINE) [BR] ESPN Extra FHD
 http://supersonictv.live:8080/945213/876115/84980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] ESPN FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPN", (ONLINE) [BR] ESPN FHD
 http://supersonictv.live:8080/945213/876115/84981
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] ESPORTE INTERATIVO *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTE INTERATIVO", (OFFLINE) [BR] ESPORTE INTERATIVO *
 http://supersonictv.live:8080/945213/876115/84982
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Fish TV FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fish TV", (ONLINE) [BR] Fish TV FHD
 http://supersonictv.live:8080/945213/876115/84983
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] FlaTV TESTE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fish TV", (OFFLINE) [BR] FlaTV TESTE
 http://supersonictv.live:8080/945213/876115/84984
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Food Network FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Food Network", (OFFLINE) [BR] Food Network FHD
 http://supersonictv.live:8080/945213/876115/84985
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] FOX FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] FOX FHD
 http://supersonictv.live:8080/945213/876115/84986
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox Life FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox Life FHD
 http://supersonictv.live:8080/945213/876115/84987
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox News FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox News FHD
 http://supersonictv.live:8080/945213/876115/84988
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox Premium 1 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox Premium 1 FHD
 http://supersonictv.live:8080/945213/876115/84989
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox Premium 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox Premium 2 FHD
 http://supersonictv.live:8080/945213/876115/84990
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox Sport HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox Sport HD
 http://supersonictv.live:8080/945213/876115/84991
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Fox Sports 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (ONLINE) [BR] Fox Sports 2 FHD
 http://supersonictv.live:8080/945213/876115/84992
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Fox Sports FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (ONLINE) [BR] Fox Sports FHD
 http://supersonictv.live:8080/945213/876115/84993
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Fox Sports SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FOX", (OFFLINE) [BR] Fox Sports SD
 http://supersonictv.live:8080/945213/876115/84994
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] FX FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FX", (OFFLINE) [BR] FX FHD
 http://supersonictv.live:8080/945213/876115/84995
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo TV Brasilia HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo TV Brasilia HD
 http://supersonictv.live:8080/945213/876115/84996
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo Centro America FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo Centro America FHD
 http://supersonictv.live:8080/945213/876115/84997
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo EPTV Campinas FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo EPTV Campinas FHD
 http://supersonictv.live:8080/945213/876115/84998
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO EPTV CAMPINAS SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO EPTV CAMPINAS SD#
 http://supersonictv.live:8080/945213/876115/84999
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
 http://supersonictv.live:8080/945213/876115/85000
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo EPTV Sul de Minas FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo EPTV Sul de Minas FHD
 http://supersonictv.live:8080/945213/876115/85001
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO INTER TV CABUGI SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO INTER TV CABUGI SD#
 http://supersonictv.live:8080/945213/876115/85002
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo Inter TV Grande Minas FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo Inter TV Grande Minas FHD
 http://supersonictv.live:8080/945213/876115/85003
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo Minas FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo Minas FHD
 http://supersonictv.live:8080/945213/876115/85004
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo News FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo News FHD
 http://supersonictv.live:8080/945213/876115/85005
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo Nordeste FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo Nordeste FHD
 http://supersonictv.live:8080/945213/876115/85006
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo NSC Florianopolis FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo NSC Florianopolis FHD
 http://supersonictv.live:8080/945213/876115/85007
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO RBS PORTO ALEGRE SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO RBS PORTO ALEGRE SD#
 http://supersonictv.live:8080/945213/876115/85008
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO RBS TV POA FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO RBS TV POA FHD
 http://supersonictv.live:8080/945213/876115/85009
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
 http://supersonictv.live:8080/945213/876115/85010
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO RIO HD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO RIO HD#
 http://supersonictv.live:8080/945213/876115/85011
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo RJ FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo RJ FHD
 http://supersonictv.live:8080/945213/876115/85012
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo RPC Curitiba FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo RPC Curitiba FHD
 http://supersonictv.live:8080/945213/876115/85013
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo RPC Foz do Iguaçu FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo RPC Foz do Iguaçu FHD
 http://supersonictv.live:8080/945213/876115/85014
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO SP FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO SP FHD
 http://supersonictv.live:8080/945213/876115/85015
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo TV Anhanguera  SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo TV Anhanguera  SD
 http://supersonictv.live:8080/945213/876115/85016
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
 http://supersonictv.live:8080/945213/876115/85017
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Globo TV Bahia FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] Globo TV Bahia FHD
 http://supersonictv.live:8080/945213/876115/85018
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo TV Belem FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo TV Belem FHD
 http://supersonictv.live:8080/945213/876115/85019
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo TV Brasilia FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo TV Brasilia FHD
 http://supersonictv.live:8080/945213/876115/85020
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO TV LIBERAL BELEM SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO TV LIBERAL BELEM SD#
 http://supersonictv.live:8080/945213/876115/85021
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo TV Mirante FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo TV Mirante FHD
 http://supersonictv.live:8080/945213/876115/85022
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo TV Morena FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo TV Morena FHD
 http://supersonictv.live:8080/945213/876115/85023
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO TV TEM BAURU SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO TV TEM BAURU SD#
 http://supersonictv.live:8080/945213/876115/85024
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO TV TEM SOROCABA SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO TV TEM SOROCABA SD#
 http://supersonictv.live:8080/945213/876115/85025
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] GLOBO TV TRIBUNA SANTOS SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (ONLINE) [BR] GLOBO TV TRIBUNA SANTOS SD#
 http://supersonictv.live:8080/945213/876115/85026
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
 http://supersonictv.live:8080/945213/876115/85027
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Globo TV Verdes Mares FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] Globo TV Verdes Mares FHD
 http://supersonictv.live:8080/945213/876115/85028
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GloboTV Anhanguera FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Globo", (OFFLINE) [BR] GloboTV Anhanguera FHD
 http://supersonictv.live:8080/945213/876115/85029
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Gloob FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Gloob", (ONLINE) [BR] Gloob FHD
 http://supersonictv.live:8080/945213/876115/85030
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Gloobinho FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Gloobinho", (OFFLINE) [BR] Gloobinho FHD
 http://supersonictv.live:8080/945213/876115/85031
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] GNT FHD
@@ -398,55 +338,39 @@ http://supersonictv.live:8080/945213/876115/84939
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band FHD
 http://supersonictv.live:8080/945213/876115/84940
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band News FHD
 http://supersonictv.live:8080/945213/876115/84941
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Band Sports FHD
 http://supersonictv.live:8080/945213/876115/84942
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] RECORD BELEM*
 http://supersonictv.live:8080/945213/876115/85071
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record BH HD
 http://supersonictv.live:8080/945213/876115/85072
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record DF HD
 http://supersonictv.live:8080/945213/876115/85073
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record ES HD
 http://supersonictv.live:8080/945213/876115/85074
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record FHD
 http://supersonictv.live:8080/945213/876115/85075
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record GO HD
 http://supersonictv.live:8080/945213/876115/85076
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Record HD
 http://supersonictv.live:8080/945213/876115/85077
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] RECORD MINAS HD*
 http://supersonictv.live:8080/945213/876115/85078
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (ONLINE) [BR] Record News FHD
 http://supersonictv.live:8080/945213/876115/85079
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record PA HD
 http://supersonictv.live:8080/945213/876115/85080
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record RJ HD
 http://supersonictv.live:8080/945213/876115/85081
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record RS HD
 http://supersonictv.live:8080/945213/876115/85082
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] RECORD RS*
 http://supersonictv.live:8080/945213/876115/85083
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] Record SP HD
 http://supersonictv.live:8080/945213/876115/85084
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRAZIL", (OFFLINE) [BR] RECORD*
 http://supersonictv.live:8080/945213/876115/85085
 
@@ -2694,6 +2618,8 @@ http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/0sr3j3t4d0sDUB.
 http://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0spr4g3nt3m4k3yDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/93/bd/93bdb90f34a8697e768a8e7fbbae3467.jpeg" group-title="CRIME | DRAMA | SUSPENSE", O Entregador 2024
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/03ntr3g4d0rDUB.mp4
+#EXTINF:-1 tvg-id="https://pobreflixtv.uno/" tvg-logo="" group-title="COMÉDIA", O ALTO DA COMPADECIDA 2024
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/07736/0jg073aujryt_x/index-v1-a1.m3u8?t=IogOO5_BI2Fm7olwcsXEqSRDayZXf8nx3kmzs6ni-bg&s=1737492353&e=10800&f=39930738&srv=47&asn=263009&sp=5500&p=
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg" group-title="DRAMA", PAIXÃO SUFOCANTE (2022)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/p41x4osfc4nt3DUB.mp4
